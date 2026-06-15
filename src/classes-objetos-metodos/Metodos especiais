@@ -1,0 +1,46 @@
+Metodos especiais
+
+MÉTODOS ACESSORES == getters
+
+são metodos que são capazes de gerenciar acessos aos metodos e atributos
+
+get = significar pegar
+
+============================================================
+public String getModelo(){
+    return this.modelo;
+}
+============================================================
+
+MÉTODOS MODIFICADORES == Setters
+
+eles podem modificar os valores dentro dos OBJETOS.
+
+como aprendemos no java tem certos metodos chamados getValue() ou setText()
+
+como ja fala modificar um certo valor ou String.
+============================================================
+public void setModelo(String m){
+    this.modelo = m;
+}
+============================================================        
+
+O PROPÓSIO E FAZER COM QUE ESSES METODOS CRIADOS COM GETTERS E SETTERS SEJA PARA PROTEGER OS ATRIBUTOS DENTRO DA CLASs.
+
+MÉTODOS CONSTRUTORES == Construct
+
+eles fazem com que antes mesmo de criar-mos um objeto na main, criar ja um certo padrão pra o objeto
+para nao ter que ficar chamando varios métodos parar padronizar.
+
+para criar um método construtor ele vai simbolizar com o MESMO NOME da class exemplo:
+
+=============================================================
+public Caneta(){  // METODO CONSTRUTOR
+    this.tampada();
+    this.cor = "Azul";
+            
+}
+======================================================================================================================
+
+NO FINAL ELE APAGOU TUDO QUE TINHA FEITO NA CLASS CANETA E apertou ctrl + i e la apareceu o que ele podia fazer com os metodos 
+

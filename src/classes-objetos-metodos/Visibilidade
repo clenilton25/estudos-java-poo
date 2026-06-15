@@ -1,0 +1,40 @@
+Visibilidade
+
+ ele começa falando sobre o LMU
+ Lingaguem de 
+ Modelagem
+ Unificada
+
+ Diagrama de Classes 
+
+ Caneta == Classe 
+==================
+ modelo
+ cor 			   ATRIBUTOS
+ ponta
+==================
+rabiscar()
+tampar()           MÉTODOS
+destampar()
+=================
+
+ MODIFICADORES DE VISIBILIDADE 
+ o que é 
+ indicam o nivel de acesso aos componentes internos de uma classe.
+
+ COMPONENTES INTERNOS == ATRUBUTOS e METODOS.
+
+ os modificadores de visibilidades são representados por 3 simbolos
+
+ + Publica == public 
+
+ - Privada == private
+
+ # Protegido == protect
+ 
+
+ Public = qualquer pessoa pode usar a classe.
+
+ Private = somente você tem acesso.
+
+ Protected = somente algumas pessoas tem acesso. 
