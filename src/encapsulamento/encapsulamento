@@ -1,0 +1,80 @@
+encapsulamento
+
+para falar sobre encapsulamento o professor da uma exemplo de uma pilha fala que ela por dentro é composta de varios materiais quimicos que fazem ela funcionar de maneira efetiva porém certos materiais cada um tem o seu proposito por exemplo :
+ 
+a primeira camada tem uma estrutura de ferro que proteje tanto nós dos componentes que há dentro dela como protege os componentes de nós para que ambos nao sejam prejudicados a ponto de haver problemas.
+
+e como na base de pilhas existem outros tipos de pilhas que podem fazer a mesma função.
+
+ou seja o encapsulamento protege o codigo do usuário e o usuário do código.
+
+e existe tambem o conceito de encapsular:
+
+ocultar partes independentes da implementação, permitindo construir partes invisiveis ao mundo exterior.
+
+um bom objeto encapsulado ele possui uma INTERFACE bem definida!.
+
+INTERFACE:
+é uma lista de serviços fornecido por um componente. é o contato com o mundo exterior, que define o que pode ser feito com um objeto desta classe.
+
+ENCAPSULAR NAO É OBRIGATÓRIO, MAS É UMA BOA PRATICA PARA PRODUZIR  CLASSES MAIS EFICIENTES.
+
+VANTAGENS DO ENCAPSULAMENTO
+1  tornar mudanças visiveis
+2  facilitar a reutilização de codigo
+3  reduzir os efeitos colaterais.
+
+em uma INTERFACE não existem ATRIBUTOS, somente MÉTODOS.
+
+e esses METODOS são chamados de MÉTODOS ABSTRATOS.
+
+quando você encapsula:  
+
+1º coisa a se fazer e deixar todos os ATRIBUTOS privados!
+
+
+
+===========================================================================================================================
+					
+									RELACIONAMENTO ENTRE CLASSES.
+significar interligar uma com a outra para que elas possam aceitar as demais funçoes 
+
+
+
+									AGREGAÇÃO 
+							e quando um OBJETO tem um Outro OBJETO.
+
+
+
+
+							TIPO ABSTRATO DE DADOS
+				 quando eu posso usar a classe como referencia para uma variavel "Tem Um"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ele menciona que eu posso colocar um metodo dentro de outro para que apartir do resultado que eu receber em um possa atualizar o outro .
+
+tambem é mencionado que eu posso criar um vetor para os objetos ! 
+
+
+
+

@@ -1,0 +1,24 @@
+
+package aula07;
+
+
+public class Aula07 {
+
+   
+    public static void main(String[] args) {
+       Lutador l[] = new Lutador[6]; 
+               
+       l[0] = new Lutador("pretty boy", "frança", 11, 2, 1, 31, 1.75f, 68.9f);
+       l[1] = new Lutador("putcript", "Brasil",14 , 2, 3, 29, 1.68f, 57.8f);
+       l[2] = new Lutador("snapshadow", "EUA", 12, 2, 1, 35, 1.65f, 80.9f);
+       l[3] = new Lutador("DEAD code", "Austrália", 13, 0, 2, 28, 1.93f, 81.6f);
+       l[4] = new Lutador("UFOCobol", "Brasil", 5, 4, 3, 37, 1.70f, 119.3f );
+       l[5] = new Lutador("Nerdaart", "EUA", 12, 2, 4, 30, 1.81f, 105.7f);
+       
+       Luta UEC01 = new Luta();
+       UEC01.marcarLuta(l[4], l[5]);
+       UEC01.lutar();
+       
+    }
+    
+}
