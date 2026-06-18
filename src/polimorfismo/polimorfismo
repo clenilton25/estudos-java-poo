@@ -1,0 +1,30 @@
+polimorfismo
+	
+É a junção de :
+Poli => muitas
+Morfo => formas
+
+
+o polimorfismo perimite que um mesmo nome represente vários comportamentos diferentes.
+
+=============================================================================================
+
+		ASSINATURA DO MÉTODO
+
+e mencionado a inportancia da assinatura, entao todo metodo tem uma assinatura
+e falado que a quantidade e o tipos de parâmetros identificam sua assinatura 
+
+===========================================================================================
+
+			TIPOS DE POLIMORFISMO 
+
+1 SOBREPOSIÇÃO :
+
+sobrepor um metodo ou seja o metodo faz uma determinada tarefa criando uma classe filha herdando esses medotodo eu posso sobrepor eles para que eles possam trabalhar de uma forma especifica de acordo com a situação de cada classe!.
+
+
+2 SOBRECARGA :
+isto acontece quando você está sobrecarregando um metodo com varias maneiras usando o mesmo nome do METODO com assinaturas difeirentes dentro da mesma classe! . 
+
+
+
