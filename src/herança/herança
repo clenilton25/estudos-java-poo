@@ -1,0 +1,84 @@
+herança 
+
+      MÃE E FILHA 
+
+primeiro o guanabara começa falando sobre mãe e filha diz que a filha pode ter as CARACTERISTICAS DA MÃE e fala que as CLASSES podem ser mães tambem.
+
+isso significa que se a classe MÃE tiver ATRIBUTOS serão herdados como tambem os GETTERS  e SETTERS.
+
+definição de HERANÇA:
+
+permite basear uma nova classe na definição de uma outra classe previamente existente.
+
+a herança será herdada tanto para caracteristicas como tambem comportamento.
+
+==================================================================================================================================
+
+COMO FAZER A CLASSE SER MÃE DAS OUTRAS ATRAVES DO "extends" faz com que as classes recebam os atributos da MÃE.
+
+minha visão 
+
+significa que eu posso criar uma classe base(mãe) para apartir dela eu posso cria outra classe com os mesmos atributos e com metodos melhores, mas nao somente isto posso variar outros tipos para cada situação especifica.
+
+==================================================================================================================================
+
+      ARVORE DE HERANÇAS
+
+a arvore de herança e comparado com a arvore genealogica toda a SUBCLASSE herda de SUPERCLASSE de acordo com a ARVORE
+as vezes A SUPERCLASSE  tambem pode ser uma SUBCLASSE. e a SUBCLASSE vai receber todos os ATRIBUTOS  e METODOS  ate chegar na mãe(RAIZ ) de TODAS e a classe que termina sem filhas(FOLHAS)  e é neste momento que a VISIBILIDADE "PROTECTED" VAI COMEÇAR A FAZER SENTIDO!
+
+DESCENDENTES :
+para definir um descendente eu nao conto com a mãe.
+exemplo : avó, bisavó, tataraavó.
+ANCESTRAIS : 
+e ancestral nao pode ser ancestral de suas filhas mas sim das nestas.
+exemplo : neta, bissneta, tataraneta.
+
+            ESPECIALIZAÇÃO
+quando você percorre uma arvore de cima para baixo. 
+            GENERALIZAÇÃO
+quando você percorre uma arvore de baixo para cima.
+
+
+=================================================================================================================================
+            TIPOS DE HERANÇA
+
+1 tipo:  HERANÇA DE IMPLEMENTAÇÃO (POBRE)
+quando esta classe nao cria nenhum atributo adicional ela so
+herda da classe, porem se a classe mãe desta for abstrata 
+a mãe nao pode gerar objetos mas a filha que recebeu a herança
+que nao é abstrata pode mesmo nao gerando nenhum atributo ou metodo adicional!.
+
+2 tipo : HERANÇA PARA DIFERENÇA 
+quando a classe que vem da SUPERCLASSE tem uma 
+especialização.
+
+
+
+
+
+
+
+
+=================================================================================================================================
+
+                  ABSTRATO E FINAL
+
+CLASSE ABSTRATA 
+ela na pode gerar objetos.
+
+METODOS ABSTRATO
+exemplo : os que são anunciados na interface.
+ele so pode ser colocado dentro de uma interface ou uma classe abstrata.
+CLASSE FINAL
+ela nao pode ter filhos ela é obrigatoriamnete uma (FOLHA).
+classe estéril
+METODO FINAL
+você nao pode gerar uma especialização deste metodo.
+
+================================================================================================================
+            OVERRIDE
+
+      significar sobrepor a um metodo.
+
+      dai suge o "final" quando voce escreve um metodo com um um "final" depois de public ja decide que so irá exixtir um método com este nome, entao neste caso o override nao se aplica.
