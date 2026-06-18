@@ -1,0 +1,24 @@
+
+package aula11;
+
+
+public class Bolsista extends Aluno{
+    private float bolsa;
+    public void renovarBolsa(){
+        System.out.println("Bolsa renovada!");
+    }
+    
+    @Override
+    public void pagarMes(){
+        System.out.println(this.nome + " e bolsista o pagamento e facilitado");
+    }
+
+    public float getBolsa() {
+        return bolsa;
+    }
+
+    public void setBolsa(float bolsa) {
+        this.bolsa = bolsa;
+    }
+    
+}
