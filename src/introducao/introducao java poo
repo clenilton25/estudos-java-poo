@@ -1,0 +1,108 @@
+introducao java poo
+
+guanabara começa explicando como será o curso de java poo fala que e importante voce entender sobre algoritmos  e fala que vai fazer pelo menos 3 aulas por semana de java poo que antes o de java basico ele so fazia 1 video por semana!
+
+Agora ele vai falar sobre a origem da java poo
+
+1 ele fala sobre a sigla 
+Progamação. 
+Orientada. a
+Objeto.
+
+programação de baixo novel = que antes eram desenvolvidas apenas por engenheiros.
+
+programação linear = os comandos ja eram conhecidos e executdos por progamadores.
+
+progamação estruturada = permitia pequenos pedaços de porgramação linear so que de uma forma mais organizada mas ainda limitada.
+
+progamação modular = permitia criar pequenos modulos estruturados e permitido cololar em capsulas protegidas para compor sistemas maiores.
+
+poo = criado por alan kay ele era experiente em matematica e filosofia e queria misturar esses dois conceitos no mundo da programação ensiar coisas atraves de objetos ele chegou a trabalhar na xerox ele comotambem foi um dois pais do notebook, ele criou uma linguagem de porgamação orientada objeto com o nome de smalltalk, e depois disto começou a trabalhar na apple, disney e hp.
+
+vantagens =  COMERNada.
+
+
+no final ele ensinada a instalar o JDK e o java e netbeans 8.0.0
+
+==================================================================================================================================
+
+O que é um OBJETO?
+
+um obejto pode ser algo ficisico com caracteristicas  eles possuem  ATRIBUTOS => METODOS => E ESTADO 
+mas nao somente fisicos algo que tbm podem ter suas caracteristicas sao compromissos, meta entre outros .
+
+O que e uma CLASSE?
+
+E basicamente uma planejamento de uma caracteristica que um objeto pode ter.
+
+INSTANCIAR 
+
+eu pego uma  CLASSE e gero uma OBJETO.
+======================================================
+ATRIBUTOS 
+o que ela tem e como ela está
+
+METODOS 
+ o que ela pode fazer ou o que eu posso fazer com ela 
+
+ESTADO 
+
+como ela esta ou como ela ficou.
+======================================================
+
+DIFERENÇA NA ESCRITA ENTRE METODO E ATRIBUTO
+
+c2.metodo()
+c2.cor = "AZUL"
+
+============================================================================
+
+DEFINIÇÃO FINAL DE CLASSE E OBJETO 
+
+CLASSE 
+define os atributos e metodos comuns que serão compartilhados por um objeto.
+
+OBJETO 
+é a instancia de uma classe.
+
+============================================================================
+
+ABSTRAÇÃO 
+
+é somente os atributos requeridos.
+
+abstrar-se dos outros atributos e focar somente em alguns!.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
