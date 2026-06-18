@@ -5,4 +5,4 @@ V 0.0.0
 [X] Classes-Objetos-Métodos.
 [X] Encapsulamento.
 [X] Herança.
-[ ] Polimorfismo.
+[X] Polimorfismo.
